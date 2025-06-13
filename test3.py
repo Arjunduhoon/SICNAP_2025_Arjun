@@ -1,5 +1,5 @@
 # Printing the details about myself
-print("Myself Arjun, my college is IIT Guwahati and we all know that Python is powerful!")
+print("Myself Arjun, my college is IIT Guwahati and we all know that Python is powerful!, have a wonderful day ahead.")
 
 #Creating 3 variables with type integer, float and string and printing their types
 a=3
